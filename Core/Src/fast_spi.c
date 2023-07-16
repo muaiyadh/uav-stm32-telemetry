@@ -2,7 +2,10 @@
 
 void Fast_SPI_Transmit (SPI_TypeDef *SPI, uint8_t *data, int size, bool include_crc)
 {
-	// Transmit bytes over SPI without using HAL.
+	/*
+ 	 * Transmit bytes over SPI without using HAL.
+   	 * Source: https://controllerstech.com/spi-using-registers-in-stm32/
+     	 */
 
 
 	if (include_crc) {
