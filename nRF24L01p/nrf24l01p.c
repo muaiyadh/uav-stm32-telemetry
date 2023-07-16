@@ -1,9 +1,17 @@
 /*
- *  nrf24l01_plus.c
+ * <ORIGINAL HEADER>
+ * nrf24l01_plus.c
  *
  *  Created on: 2021. 7. 20.
  *      Author: mokhwasomssi
- * 
+ * </ORIGINAL HEADER>
+ */
+
+/*
+ * This file is modified from mokhwasomssi's version to fix breaking changes
+ * and follow the datasheet more accurately.
+ * Modified version by: muaiyadh
+ *
  */
 
 
