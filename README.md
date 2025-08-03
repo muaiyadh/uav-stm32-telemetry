@@ -2,7 +2,7 @@
 
 > **Status:** Archived research snapshot.
 >
-> I no longer have the hardware. Code is published *as-is* for reference and verification.
+> I no longer have the hardware. The code was hastily developed for a prototype, and is published *as-is* for reference and verification.
 
 This repository contains the exact CubeIDE project I used for UAV radio-link experiments in 2023.
 It runs on an STM32F407G-DISC1 board wired to an nRF24L01+ module and transmits 32-byte payloads at 2 Mbps on channel 2476 MHz, using basic error-checking methods.
