@@ -1,6 +1,7 @@
 # STM32F407 + nRF24L01+ Telemetry Firmware
 
 > **Status:** Archived research snapshot.
+>
 > I no longer have the hardware. Code is published *as-is* for reference and verification.
 
 This repository contains the exact CubeIDE project I used for UAV radio-link experiments in 2023.
